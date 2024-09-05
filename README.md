@@ -11,7 +11,14 @@ This is a simple calculator application built using Python's Tkinter library. Th
 - Evaluates expressions using the `eval` function.
 
 
+## Game Preview
 
-<img src="https://github.com/user-attachments/assets/ffbafec0-f9e9-40ac-934a-021408a71a28" alt="Calculator Example" width="300"/>
+- ### Application look:
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ffbafec0-f9e9-40ac-934a-021408a71a28" alt="Calculator Example" width="300"/>
+</div>
 
-<img src="https://github.com/user-attachments/assets/c37ee46b-b97c-40e3-b1cb-3ffecf7c240e" alt="Calculator Result" width="300"/>
+- ### Result:
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/c37ee46b-b97c-40e3-b1cb-3ffecf7c240e" alt="Calculator Result" width="300"/>
+</div>
